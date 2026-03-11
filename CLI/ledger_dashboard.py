@@ -167,7 +167,7 @@ HTML = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ledger — Execution Control</title>
+<title>Ledger Once</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
@@ -505,7 +505,7 @@ HTML = r"""<!DOCTYPE html>
 <div class="shell">
 
   <header class="topbar">
-    <div class="logo">LEDGER <span>/ control</span></div>
+    <div class="logo">LEDGER <span>/ ONCE</span></div>
     <div class="topbar-db">
       <strong id="db-path">—</strong>&nbsp;·&nbsp;<span id="db-size">—</span>
     </div>
