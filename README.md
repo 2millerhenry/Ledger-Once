@@ -2,8 +2,9 @@
 
 [![PyPI](https://img.shields.io/pypi/v/ledger-once)](https://pypi.org/project/ledger-once/)
 
+```bash
 pip install ledger-once
-
+```
 
 **Exactly-once execution for AI agent tool calls.**
 
