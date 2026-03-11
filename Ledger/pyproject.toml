@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.backends.legacy:build"
 
 [project]
-name = "ledger-guard"
+name = "ledger-once"
 version = "0.1.0"
-description = "Exactly-once execution for AI agent tool calls. One line of code stops duplicate charges, emails, and API calls."
+description = "Ledger Once — exactly-once execution for AI agent tool calls. One line stops duplicate charges, emails, and API calls."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
