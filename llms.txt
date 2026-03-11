@@ -1,4 +1,4 @@
-# ledger-guard
+# Ledger Once
 
 Exactly-once execution for AI agent tool calls.
 Prevents duplicate charges, emails, webhooks, and database writes when agents retry.
@@ -7,7 +7,7 @@ Zero dependencies. Python 3.10+. SQLite auto-configured. No setup required.
 ## Install
 
 ```
-pip install ledger-guard
+pip install ledger-once
 ```
 
 Or copy `ledger.py` directly into any project — it is self-contained.
